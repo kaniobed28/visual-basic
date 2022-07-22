@@ -1,0 +1,12 @@
+C:\Users\kanio\source\repos\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\kanio\source\repos\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\kanio\source\repos\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\kanio\source\repos\lab3\lab3\bin\Debug\lab3.xml
+C:\Users\kanio\source\repos\lab3\lab3\obj\Debug\lab3.vbproj.AssemblyReference.cache
+C:\Users\kanio\source\repos\lab3\lab3\obj\Debug\lab3.Form1.resources
+C:\Users\kanio\source\repos\lab3\lab3\obj\Debug\lab3.Resources.resources
+C:\Users\kanio\source\repos\lab3\lab3\obj\Debug\lab3.vbproj.GenerateResource.cache
+C:\Users\kanio\source\repos\lab3\lab3\obj\Debug\lab3.vbproj.CoreCompileInputs.cache
+C:\Users\kanio\source\repos\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\kanio\source\repos\lab3\lab3\obj\Debug\lab3.xml
+C:\Users\kanio\source\repos\lab3\lab3\obj\Debug\lab3.pdb
